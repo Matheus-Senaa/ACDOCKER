@@ -1,6 +1,8 @@
 # docker_postgres
  docker-compose up
 
+
+
 ## para criar a tabea deste schema
  docker-compose run web /usr/local/bin/python create_db.py
 
